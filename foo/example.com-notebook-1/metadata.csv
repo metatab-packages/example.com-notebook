@@ -1,0 +1,37 @@
+Declare,metatab-latest
+Title,Example Notebook test
+Description,
+Identifier,a45a2331-5199-4385-a357-daf9b7516d76
+Name,example.com-notebook-1
+Dataset,notebook
+Origin,example.com
+Time,
+Space,
+Grain,
+Variant,
+Version,1
+Created,2019-08-13T18:37:37
+Modified,2019-08-13T18:41:58
+Issued,2019-08-13T18:41:58
+Giturl,https://github.com/metatab-packages/metatab-packages.git
+""
+Section,Contacts,Email,Organization,Url
+Wrangler,Eric Busboom,eric@civicknowledge.com,Civic Knowledge,http://civicknowledge.com
+""
+Section,Documentation,Title,Description,
+Documentation,file:README.md,README,,
+""
+Section,References,Name,Description,
+""
+Section,Resources,Name,Description,
+Datafile,data/df.csv,df,Simple dataframe,
+""
+Section,Schema,DataType,Description,Has_Codes
+Table,df,,,
+Table.Column,id,integer,,
+Table.Column,uuid,string,,
+Table.Column,int,integer,,
+Table.Column,float,number,,
+""
+Section,Sources,Name,Description,Hash
+Datafilesource,file:///Users/eric/proj/data-projects/metatab-packages/example.com/example.com-notebook/notebooks/notebook1.ipynb#df,df,Simple dataframe,07a73dfc36e3d5b762505c041411a7ab

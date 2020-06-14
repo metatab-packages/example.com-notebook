@@ -1,0 +1,44 @@
+{
+    "declare": "metatab-latest",
+    "title": "Example Notebook test",
+    "description": "",
+    "identifier": "a45a2331-5199-4385-a357-daf9b7516d76",
+    "name": "example.com-notebook-1",
+    "dataset": "notebook",
+    "origin": "example.com",
+    "time": null,
+    "space": null,
+    "grain": null,
+    "variant": null,
+    "version": "1",
+    "created": "2019-08-13T18:37:37",
+    "modified": "2019-08-13T18:41:58",
+    "issued": "2019-08-13T18:41:58",
+    "giturl": "https://github.com/metatab-packages/metatab-packages.git",
+    "resources": [
+        {
+            "path": "data/df.csv",
+            "name": "df",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "id",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "uuid",
+                        "type": "string"
+                    },
+                    {
+                        "name": "int",
+                        "type": "integer"
+                    },
+                    {
+                        "name": "float",
+                        "type": "number"
+                    }
+                ]
+            }
+        }
+    ]
+}
