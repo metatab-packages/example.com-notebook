@@ -2,16 +2,16 @@ Declare,metatab-latest
 Title,Example Notebook test
 Description,
 Identifier,a45a2331-5199-4385-a357-daf9b7516d76
-Name,example.com-notebook-2
+Name,example.com-notebook-3
 Dataset,notebook
 Origin,example.com
 Time,
 Space,
 Grain,
 Variant,
-Version,2
+Version,3
 Created,2019-08-13T18:37:37
-Modified,2020-05-20T16:56:10
+Modified,2020-06-14T23:48:36
 Giturl,https://github.com/metatab-packages/metatab-packages.git
 ""
 Section,Contacts,Email,Organization,Url
